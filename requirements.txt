@@ -1,2 +1,3 @@
 fastapi
 uvicorn
+threads-api @ git+https://github.com/Danie1/threads-api.git
